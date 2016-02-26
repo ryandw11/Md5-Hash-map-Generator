@@ -33,7 +33,7 @@ public class MyWindow extends JFrame implements ActionListener{
     void init(){
  
         JLabel text = new JLabel("Md5 Hash Map Generator");
-        JLabel text1 = new JLabel("By Ryan W.");
+        JLabel text1 = new JLabel("By Ryandw11"); //Name changed for the public.
         text2 = new JButton("Generate!");
         picture = new JButton("Picture ");
         Type = new JTextField(20);
